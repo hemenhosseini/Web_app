@@ -1,2 +1,2 @@
-# Web_app
-Design and development of web application using node.js 
+# FinTech(Web_app)
+Design and development of web application using Angular.js 
